@@ -1,0 +1,22 @@
+node_modules
+.env
+*.log
+.git
+
+
+Module/Class Exercise/helloworld.html
+node_modules/
+
+
+.env
+PORT=8080
+DB_URI=mongodb://localhost:27017/blogDB
+
+DB_NAME=blogDB
+DB_USER=root
+DB_PASSWORD=newpassword
+DB_HOST=localhost
+PORT=8082
+
+
+//https://hub.docker.com/r/darwincasasola/microservice-app
